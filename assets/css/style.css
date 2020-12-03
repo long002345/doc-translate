@@ -1,0 +1,29 @@
+.icon{
+    width: 60px;
+}
+.icon img{
+    max-width: 100%;
+}
+.icon .bg_icon{
+    height: 30px;
+    width: 30px;
+    display: inline-block;
+    background-image: url(".../images/keyboard/keyboard.png");
+    background-size: 850px 250px;
+    background-position: -20px -20px ;
+    margin: 6px 0 0 0;
+    opacity: 0.26;
+    vertical-align: middle;
+}
+
+.icon .bg_icon.arrow_down{
+    height: 30px;
+    width: 30px;
+    display: inline-block;
+    background-image: url(".../images/keyboard/keyboard.png");
+    background-size: 850px 250px;
+    background-position: -20px -20px ;
+    margin: 6px 0 0 0;
+    opacity: 0.54;
+    vertical-align: middle;
+}
